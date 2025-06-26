@@ -53,7 +53,7 @@ To analyze 1000 orders and gain insights on:
 
 ## 🌐 Portfolio Link
 
-- [My Portfolio Website](/[https://your-portfolio-link.com](https://codebasics.io/portfolio/Mohammed-Raza-Govani))
+- [My Portfolio Website](https://codebasics.io/portfolio/Mohammed-Raza-Govani)
 
 ---
 
