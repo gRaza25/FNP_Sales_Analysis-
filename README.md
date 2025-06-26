@@ -65,5 +65,5 @@ Feel free to fork, share feedback, or suggest improvements! This is part of my l
 
 ## 🔖 Tags
 
-`Excel` `Dashboard` `Sales Analysis` `Data Analytics` `FNP` `WsCubeTech` `Excel Project` `Portfolio Project`
+`Excel` `Dashboard` `Sales Analysis` `Data Analytics` `Excel Project` `Portfolio Project`
 
